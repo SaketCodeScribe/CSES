@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 #define ll long long int
+
 int main() {
 	// your code goes here
 	ll n;
